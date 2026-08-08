@@ -1,4 +1,4 @@
-# Mega API Security Wordlists v3 — 17M+ Lines, 16 Categories
+# Mega API Security Wordlists v1 — 17M+ Lines, 16 Categories
 
 **17,060,401 unique, deduplicated entries** across 16 category files
 (v1: 4.8M/5 categories → v2: 8.06M/11 categories → **v3: 17.06M/16 categories**).
