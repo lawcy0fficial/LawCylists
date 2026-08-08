@@ -1,0 +1,15 @@
+api/concourse/cancel
+argocd/status
+runner/trigger
+cd/code-review
+cd/feature-branch/cancel
+cd/deploy-keys/trigger
+internal/merge-request/retry
+devops/teamcity/retry
+ci/artifact-download/logs
+cd/concourse/logs
+cd/concourse/trigger
+jenkins/script/retry
+ci/agent-pool
+api/bamboo/retry
+ci/rollback/cancel

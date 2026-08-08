@@ -1,0 +1,15 @@
+webhooks/ping-identity-health
+api/github/connect/reject
+connect/segment-install/disable
+integrations/zendesk/install/process
+webhooks/activecampaign/tokens/revoke
+connect/square-status/complete
+api/adp-oauth/reject
+integrations/paypal-install/import
+integrations/dropbox/credentials/start
+integrations/pinecone-api-key/lock
+api/hellosign-integrations/preview
+api/zendesk-events/preview
+oauth/zoom-status/run
+api/okta/disconnect/clone
+webhooks/chroma/keys/1

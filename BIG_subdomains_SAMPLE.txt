@@ -1,0 +1,15 @@
+events.prod.2024-01-01
+events.1.0
+login-test-v2beta
+graphql-old-v1alpha1
+graphql.qa.v6
+storage.failover.1.0
+media.alpha.v1alpha1
+gql-internal-2024-06-01
+files.public.v1beta
+assets-integration-v1beta1
+notify-production-stable
+dev-api-pre-prod-1.1
+idp-preprod-latest
+status-dr
+apiv1-alpha-1.0

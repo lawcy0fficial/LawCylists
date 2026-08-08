@@ -1,0 +1,15 @@
+algolia/indexes/admin-override-token
+neo4j/browser/client
+_cluster/state/benchmark
+neo4j/db/config
+_mapping/document-loader
+clickhouse/query/configmaps
+druid/coordinator/artifacts
+couchdb/articles
+_snapshot/batch-inference
+pgadmin/appointments
+mongo-express/configmap
+neo4j/db/documents
+kibana/backup
+solr/admin/features
+opensearch/artifacts

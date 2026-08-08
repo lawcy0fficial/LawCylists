@@ -1,0 +1,15 @@
+True-Client-IP: ::1
+X-ENVOY-DECORATOR-OPERATION
+X_Feature_Flag
+X-Auth-Token
+X_Permissions
+x-app-version
+X-WEBHOOK-SIGNATURE
+X-Forwarded-Port: 0.0.0.0
+X_INTERNAL_REQUEST
+x-envoy-original-path
+X-Method-Override
+X_Trace_Id
+X-Envoy-Original-Path
+x-host
+X_Debug_Mode

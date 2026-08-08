@@ -1,0 +1,15 @@
+api/v2/cashback-request
+internal/negotiate-price
+api/referral-code
+trial-convert
+internal/loyalty-points
+api/loyalty-tier
+trial-convert/:id
+api/v1/price-override
+api/v2/fraud-flag
+api/fraud-check
+rate-override
+cashback-request/:id
+voucher-apply/:id
+api/voucher-apply
+api/v2/referral-code

@@ -1,0 +1,15 @@
+billing/usage
+cloud/impersonation-token
+http://169.254.169.254/metadata/aks/clusters
+cloud/file
+http://169.254.169.254/cloudwatch
+azure/audit
+http://169.254.169.254/computeMetadata/v1/instance/service-accounts
+aws/appointments
+azure/discounts
+gcs/buckets
+gcp/attachments
+azure/deployment-config
+cloud/invite-link
+azure/changelog
+azure/backup-codes

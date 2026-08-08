@@ -1,0 +1,15 @@
+api/2025-01-01/offline-sync-pause
+api/2024-01-01/app-store-connect-reject
+api/v5/app-config-publish
+api/2024-01-01/pair-import
+api/v1alpha1/sensor-pause
+api/v2/universal-link/get
+api/v1alpha1/topics-update
+api/2023-01-01/device-status-import
+api/v6/ble/:id
+api/2024-06-01/deep-link/sync
+api/v4/factory-reset-device-draft
+api/v5/device-log/archive
+api/1.0/device-token/copy
+api/v5/app-links/draft
+api/3.0/sensor-reading-pause

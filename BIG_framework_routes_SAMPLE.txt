@@ -1,0 +1,15 @@
+api/webhooks/release
+wp-admin
+rest/v1/system-prompt
+functions/v1/calls
+api/edge/prediction
+functions/v1/webauthn
+api/internal/issues
+v1/query/on-call
+api/graphql/register
+api/internal/fine-tune
+api/webhooks/workflow
+api/trpc/tasks
+functions/v1/task
+v1/query/release-notes
+v1/query/task
